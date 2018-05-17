@@ -19,4 +19,5 @@ iii)	Test can fail on a different device as it has not been tested on a cross pl
 
 
 Code is ready to run in XCode and show the simulator in it how it works.
+
 Successful test cases for the user registration and login/logout.
